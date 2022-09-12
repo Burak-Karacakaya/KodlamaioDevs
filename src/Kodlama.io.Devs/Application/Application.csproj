@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\ProgrammingLanguages\Constans\" />
+    <Folder Include="Features\GithubAccounts\Constants\" />
+    <Folder Include="Features\ProgrammingLanguages\Constants\" />
+    <Folder Include="Features\ProgrammingTechnologies\Constants\" />
   </ItemGroup>
 
 	<ItemGroup>
